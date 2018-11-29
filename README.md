@@ -90,4 +90,5 @@ interpretability and ease to debug, data volume, and training and prediction con
 
 #### Reference:
 Book: Hands-On Machine Learning with Scikit-Learn and TensorFlow <br>
-http://shop.oreilly.com/product/0636920052289.do
+http://shop.oreilly.com/product/0636920052289.do<br>
+https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/ <br>
