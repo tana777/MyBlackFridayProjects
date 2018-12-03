@@ -1,3 +1,8 @@
+
+
+This is my approach on [Analytics Vidhya Black Friday hackathon](https://datahack.analyticsvidhya.com/contest/black-friday/). You can find a complete step-by-step analysis on the issue as well as my Python code and conclusions.
+
+
 ## Machine Learning Project Checklist
 My machine learning project workflow mainly includes the following parts and it also shows how I tackle this series of problems. Suppose we get the dataset, then start our journey and let the data lead us and see what information could we get and how to accomplish the task.
 
